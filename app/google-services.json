@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439872050987",
+    "project_id": "p9-244780",
+    "storage_bucket": "p9-244780.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439872050987:android:cdebb98c1ab25c9fb9176e",
+        "android_client_info": {
+          "package_name": "cervantes.fedra.p9_244780"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCDvpRP4FFIKWuyvYDgRObN8fEIO70k5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
